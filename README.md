@@ -1,1 +1,2 @@
-# ujjwal
+npm install
+npm start
